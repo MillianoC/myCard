@@ -1,0 +1,19 @@
+{
+  "name": "mycard",
+  "version": "1.0.0",
+  "description": "Virtual business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Milliano",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.5",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
